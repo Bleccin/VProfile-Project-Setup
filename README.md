@@ -30,3 +30,5 @@ ARCHITECTURE OF AUTOMATED SETUP:
 1. VAGRANT
 2. VIRTUAL BOX
 3. GITBASH
+4. 
+<img width="495" alt="image" src="https://github.com/user-attachments/assets/8a15f44d-5f71-4c1c-b7a9-70fd18a52eac">
