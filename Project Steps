@@ -4,6 +4,7 @@ PREREQUISITE:
 3. Vagrant plugins
 Execute below command in your computer to install hostmanager plugin
 $ vagrant plugin install vagrant-hostmanager
+The command allows VMs to have Host name to IP mapping.
 4. Git bash
 
 VM SETUP:
